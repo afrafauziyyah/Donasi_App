@@ -21,7 +21,7 @@ namespace DonasiApplicationDesktop
                 imageNumber = 1;
             }
 
-            slidebox.ImageLocation = string.Format(@"Image\{0}.jpg",imageNumber);
+            slidebox.ImageLocation = string.Format(@"Image\{0}.jpg", imageNumber);
             imageNumber++;
         }
 
@@ -79,6 +79,15 @@ namespace DonasiApplicationDesktop
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Login log = new Login();
+
+            log.Show();
+
+            this.Hide();
         }
     }
 }

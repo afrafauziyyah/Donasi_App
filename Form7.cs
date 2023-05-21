@@ -23,35 +23,36 @@ namespace DonasiApplicationDesktop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //if ((textBox1.Text == string.Empty | textBox2.Text == string.Empty))
-            //{
-            //    MessageBox.Show("Please fill all fields");
-            //    return;
-            //}
+            if ((textBox1.Text == string.Empty | textBox2.Text == string.Empty))
+            {
+                MessageBox.Show("Please fill all fields");
+                return;
+            }
 
-            //try
-            //{
-            //    cmd = new MySqlCommand("insert into payment (nama_donatur,jumlah_donasi) values (@nama_donatur,@jumlah_donasi)", con);
-            //    con.Open();
-            //    cmd.Parameters.AddWithValue("@nama_donatur", textBox1.Text);
-            //    cmd.Parameters.AddWithValue("@jumlah_donasi", textBox2.Text);
-            //    cmd.ExecuteNonQuery();
-            //    con.Close();
-            //    MessageBox.Show("succesfully");
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show(ex.Message);
-            //    Console.WriteLine(ex.Message);
-            //}
-            //finally
-            //{
-            //    con.Close();
-            //}
+            try
+            {
+                cmd = new MySqlCommand("insert into payment (nama_donatur,jumlah_donasi) values (@nama_donatur,@jumlah_donasi)", con);
+                con.Open();
+                cmd.Parameters.AddWithValue("@nama_donatur", textBox1.Text);
+                cmd.Parameters.AddWithValue("@jumlah_donasi", textBox2.Text);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("succesfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                con.Close();
+                Form8 f8 = new Form8();
+                f8.Show();
+                this.Hide();
+            }
 
-            Form8 f8 = new Form8();
-            f8.Show();
-            this.Hide();
+           
 
         }
 

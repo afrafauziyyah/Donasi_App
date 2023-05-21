@@ -41,3 +41,46 @@ D:\X Semester 2 2023\DPK A\DonasiApplicationDesktop\DonasiApplicationDesktop\obj
 D:\X Semester 2 2023\DPK A\DonasiApplicationDesktop\DonasiApplicationDesktop\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Login.resources
 D:\X Semester 2 2023\DPK A\DonasiApplicationDesktop\DonasiApplicationDesktop\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Register.resources
 D:\X Semester 2 2023\DPK A\DonasiApplicationDesktop\DonasiApplicationDesktop\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form5.resources
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\DonasiApplicationDesktop.exe
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\DonasiApplicationDesktop.deps.json
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\DonasiApplicationDesktop.runtimeconfig.json
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\DonasiApplicationDesktop.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\DonasiApplicationDesktop.pdb
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\source\repos\Donasi_App\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form1.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form2.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form3.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form4.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form5.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form6.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form7.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Form8.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Login.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.Register.resources
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.dll
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\refint\DonasiApplicationDesktop.dll
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.pdb
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\DonasiApplicationDesktop.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Donasi_App\obj\Debug\net6.0-windows\ref\DonasiApplicationDesktop.dll

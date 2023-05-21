@@ -34,6 +34,8 @@ namespace DonasiApplicationDesktop
 
             // Menampilkan Form6
             form6.ShowDialog();
+            this.Hide();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -43,6 +45,8 @@ namespace DonasiApplicationDesktop
 
             // Menampilkan Form6
             form6.ShowDialog();
+            this.Hide();
+
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -52,6 +56,8 @@ namespace DonasiApplicationDesktop
 
             // Menampilkan Form6
             form6.ShowDialog();
+            this.Hide();
+
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
